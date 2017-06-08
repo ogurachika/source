@@ -1,2 +1,4 @@
 test
 add/text.txt
+add/text.txt
+add/text.txt
